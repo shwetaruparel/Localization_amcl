@@ -19,7 +19,7 @@ Robot Navigation and localization in a mapped environment using Gazebo , ROS pac
       $ roslaunch udacity_bot amcl.launch
       $ rosrun udacity_bot navigation_goal
       
-### Next change the udacity_bot.xacro file with the safety_bot.xacro file , but save it as udacity_bot.xacro, and the run Gazebo,rviz and provided Goal just like the above step. This robot has a different model(a cylinderical base)
+### Next change the udacity_bot.xacro file with the safety_bot.xacro file , but save it as udacity_bot.xacro, and then run Gazebo,rviz and provided Goal just like the above step. This robot has a different model(a cylinderical base).
 
 
 # Check the Localization.pdf for detailed analysis of Localization and localization algorithms (EKF and AMCL)
