@@ -2,7 +2,9 @@
 Robot Navigation and localization in a mapped environment using Gazebo , ROS packages , amcl, Rviz. Two different robot models are usewd to test the navigation and localisation. 
 
 # Abstract
-      Mobile robot localization is a challenge of determining a robot’s pose from sensor data in a mapped environment.Often the robots are required to be able to navigate and get the information about its surrounding. Autonomous navigation or along the way-points the          robot must be able to perceive its surrounding and make localization decision.
+      Mobile robot localization is a challenge of determining a robot’s pose from sensor data in a mapped environment.
+      Often the robots are required to be able to navigate and get the information about its surrounding. 
+      Autonomous navigation or along the way-points the robot must be able to perceive its surrounding and make localization decision.
 
 # Steps to download and create a ROS environment.
 
