@@ -1,5 +1,5 @@
 # Localization_amcl
-Robot Navigation and localization in a mapped environment using Gazebo , ROS packages , amcl, Rviz. Two different robot models are usewd to test the navigation and localisation. 
+Robot Navigation and localization in a mapped environment using Gazebo , ROS packages , amcl, Rviz. Two different robot models are used to test the navigation and localisation. 
 
 # Abstract
       Mobile robot localization is a challenge of determining a robot’s pose from sensor data in a mapped environment.
