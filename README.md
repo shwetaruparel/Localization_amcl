@@ -28,4 +28,3 @@ For more details refer **https://github.com/shwetaruparel/Localization_amcl/blob
 ### Next change the udacity_bot.xacro file with the safety_bot.xacro file , but save it as udacity_bot.xacro, and then run Gazebo,rviz and provided Goal just like the above step. This robot has a different model(a cylinderical base).
 
 
-# Check the Localization.pdf for detailed analysis of Localization and localization algorithms (EKF and AMCL)
